@@ -4,7 +4,7 @@ class Display extends PureComponent {
   render() {
     return (
       <div className="output">
-        <div>0</div>
+        <div id="output">0</div>
       </div>
     );
   }
