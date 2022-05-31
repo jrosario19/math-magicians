@@ -9,13 +9,13 @@
   max-width: 1500px;
   width: 100%;
   margin: 0 auto;
+  padding: 0 20px 0 20px;
 }
 
 .navbar {
   width: 100vw;
   height: 75px;
-  background-color: black;
-  color: white;
+  color: blue;
 }
 
 .nav-bar {
@@ -32,10 +32,26 @@
 .nav-bar-item-link {
   list-style: none;
   text-decoration: none;
-  color: white;
+  color: blue;
   font-size: 25px;
 }
 
-.Headline {
+.logo {
   font-size: 35px;
+  color: black;
+}
+
+.headline {
+  font-size: 35px;
+}
+
+.section-text {
+  font-size: 35px;
+  line-height: 35px;
+}
+
+.quote-text-container {
+  font-size: 35px;
+  text-align: center;
+  margin-top: 300px;
 }
