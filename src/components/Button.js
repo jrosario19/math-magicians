@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-
+/* eslint-disable */
 class Button extends PureComponent {
   render() {
     const {
@@ -15,10 +15,10 @@ class Button extends PureComponent {
   }
 }
 
-Button.defaultProps={
+Button.defaultProps = {
   className: '',
   id: '',
-}
+};
 
 Button.propTypes = {
   text: PropTypes.string.isRequired,

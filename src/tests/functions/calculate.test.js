@@ -1,7 +1,6 @@
 import { cleanup } from '@testing-library/react';
 import calculate from '../../logic/calculate';
 
-
 afterEach(cleanup);
 
 describe('Verificate the math operations', () => {
