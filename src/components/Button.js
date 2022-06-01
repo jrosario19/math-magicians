@@ -14,6 +14,12 @@ class Button extends PureComponent {
     );
   }
 }
+
+Button.defaultProps={
+  className: '',
+  id: '',
+}
+
 Button.propTypes = {
   text: PropTypes.string.isRequired,
   className: PropTypes.string.isRequired,

@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
-import App from './App';
-import Calculator from './components/Calculator';
+import App from '../App';
+import Calculator from '../components/Calculator';
 
 describe('Reder Home Page', () => {
   test('Test to render home page', () => {
