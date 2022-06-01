@@ -31,5 +31,10 @@ describe('Reder Home Page', () => {
     fireEvent.click(equalKey, { target: { innerText: "=" } });
     expect(displayContainer.innerHTML).toBe("12");
   });
-  
+  test('When key 5 is click, 5 is display in the Calculator', () => {
+    render(<Calculator />); const key = screen.getByText('5');
+    const displayContainer = document.getElementById('output');
+    expect(key.innerHTML).toBe('5');
+    fireEvent.click(key, {target:{innerText: "5"}});
+    expect(displayContainer.innerHTML).toBe('5'); });
 });
