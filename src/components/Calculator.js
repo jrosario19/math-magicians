@@ -32,7 +32,7 @@ const Calculator = () => {
         <Button text="9" onClick={onClickEventHandler} />
         <Button className="operator" text="x" onClick={onClickEventHandler} />
         <Button text="4" onClick={onClickEventHandler} />
-        <Button text="5" onClick={onClickEventHandler} />
+        <Button text="5" onClick={onClickEventHandler} id="5" />
         <Button text="6" onClick={onClickEventHandler} />
         <Button className="operator" text="-" onClick={onClickEventHandler} />
         <Button text="1" onClick={onClickEventHandler} />
