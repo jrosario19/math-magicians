@@ -46,6 +46,18 @@ The deployment updates automatically once the main branch is update.
 - Twitter: [@jrosario19](https://twitter.com/jrosario19)
 - LinkedIn: [Juan Fco. Rosario](https://linkedin.com/in/juan-francisco-rosario-suli-44595051)
 
+👤 **Alex Puente**
+
+- GitHub: [@alexpuente0](https://github.com/alexpuente0)
+- Twitter: [@zero_rock](https://twitter.com/zero_rock)
+- LinkedIn: [Alejandro Puente](https://www.linkedin.com/in/alejandro-puente-farías-154a7629/)
+
+👤 **Judá F Teixeira**
+- GitHub: [@mrjuda](https://github.com/mrjuda "Judá Teixeira's GitHub profile")
+- Twitter: [@judalabs](https://twitter.com/judalabs "Judá Teixeira's Twitter profile")
+- LinkedIn: [@judateixeira](https://www.linkedin.com/in/judateixeira "Judá Teixeira's Linkedin profile")
+
+
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
