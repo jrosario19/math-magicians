@@ -9,7 +9,8 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link]()
+[Heroku](https://math-juan-rosario.herokuapp.com/)
+[Netlify](https://6298cb3ff3ee0c3143074aaa--deft-begonia-c27ee1.netlify.app/)
 
 ## Getting Started
 To get started and get a local copy of this project, follow the next intructions:
